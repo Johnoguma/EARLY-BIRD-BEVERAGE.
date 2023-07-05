@@ -1,24 +1,24 @@
 # EARLY-BIRD-BEVERAGE.
-HTML code to generate the following output.
 <!DOCTYPE html>
 <html>
 <head>
-<Title> EARLY BIRD BEVERAGE.</Title>
-<head>
-<body style=" background-color:aqua">
-<ul>
-<li> Coffee </li>
-<img.src=" Coffee ">
-<li> Tea </li>
-<img.src=" Tea ">
-</ul>
-<Ol>
-<li> Black tea</li>
-<img.src=" Black tea >
-<li> Green tea</li>
-<img.src="Green tea >
-</Ol>
+<h3> EARL BIRD BEVERAGE. </H3>
+ <ul>
+    <li> Coffee </li>
+           <img src="coffee.jpg"width="100" height="100">   
+    <li> Tea </li>
+         <img src="Tea.jpg"width="100" height="100">   
+       <ul>
+    <li> Black Tea </li>
+      <img src="Black.jpg"width="100" height="100">   
+     <li>Green Tea </li>
+      <img src="Green.jpg"width="100" height="100">   
+ </ul>
+<li> Milk </li> 
+    <img src="Milk.jpg"width="100" height="100">   
 
+ </body>
+ </html>
 
 
 
